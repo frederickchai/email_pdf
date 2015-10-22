@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/codefuel/ws_android_studio/example/Android-Text-to-PDF/app/libs/itextpdf-5.3.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6707823d598a75eb9959635b72d45dc318714a09">
+        <dex dex="/home/codefuel/ws_android_studio/example/Android-Text-to-PDF/app/build/intermediates/pre-dexed/debug/itextpdf-5.3.3-5277770e1b20f13e739bb1e376bb8c1d43ba892a.jar" />
+    </item>
+    <item
+        jar="/home/codefuel/android/adt-bundle-linux-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/codefuel/ws_android_studio/example/Android-Text-to-PDF/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-2d11998a888a797883f4cee0de2c212e6d29aa27.jar" />
+    </item>
+
+</items>
